@@ -1,4 +1,4 @@
-package com.gsoft.framework.gsoftframeworkcontext;
+package com.gsoft.framework.context;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -1,4 +1,4 @@
-package com.gsoft.framework.gsoftframeworkcontext;
+package com.gsoft.framework.context;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
